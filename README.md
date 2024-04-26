@@ -1,16 +1,40 @@
-# shadcn README
+<div align="center">
 
-## Working with Markdown
+# ShadCN/vscode theme
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+[![License: MIT](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE.md)
+[![Open Issues](https://img.shields.io/github/issues/FormalSnake/shadcn-vscode.svg)](https://github.com/FormalSnake/shadcn-vscode)
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+This is a vscode theme inspired by the ShadCN design language
 
-## For more information
+</div>
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+<img width="1440" alt="imageShowcase" src="/assets/imageShowcase.png">
 
-**Enjoy!**
+> [!CAUTION]
+> Based on how this system works, your Figma file might lag a lot. This is because the system creates a bunch of rectangles.
+
+### Activity
+
+![Activity](https://repobeats.axiom.co/api/embed/1959ac6bb1c3babe1856357c9991e05b4d82b1d9.svg "analytics image")
+
+## Development
+
+> [!NOTE]
+> I do not know how to properly test it
+
+What I do is just run it from the debugger and then it works fine.
+
+## Usage
+
+Download it from the VSCode marketplace
+
+## Contributing
+
+Contributions are welcome! Please read the contributing guidelines before submitting pull requests.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+© 2024 FormalSnake. All rights reserved.
