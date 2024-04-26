@@ -1,6 +1,6 @@
 {
   "name": "shadcn",
-  "displayName": "shadcn",
+  "displayName": "ShadCN/vscode",
   "description": "It is inspired by the shadcn ui framework because it looks cool",
   "version": "0.0.1",
   "engines": {
@@ -9,6 +9,16 @@
   "categories": [
     "Themes"
   ],
+  "icon": "icons/icon.png",
+  "author": {
+    "name": "Kyan De Sutter",
+    "email": "kyan@canarycoders.es",
+    "url": "https://www.formalsnake.dev/"
+  },
+  "repository": {
+    "url": "https://github.com/FormalSnake/shadcn-vscode.git",
+    "type": "git"
+  },
   "contributes": {
     "themes": [
       {
