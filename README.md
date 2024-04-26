@@ -12,7 +12,7 @@ This is a vscode theme inspired by the ShadCN design language
 <img width="1440" alt="imageShowcase" src="/assets/imageShowcase.png">
 
 > [!CAUTION]
-> Based on how this system works, your Figma file might lag a lot. This is because the system creates a bunch of rectangles.
+> I did not create the ShadCN design language and I am not affiliated with ShadCN in any way!
 
 ### Activity
 
