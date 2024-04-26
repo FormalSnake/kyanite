@@ -14,10 +14,6 @@ This is a vscode theme inspired by the ShadCN design language
 > [!CAUTION]
 > I did not create the ShadCN design language and I am not affiliated with ShadCN in any way!
 
-### Activity
-
-![Activity](https://repobeats.axiom.co/api/embed/1959ac6bb1c3babe1856357c9991e05b4d82b1d9.svg "analytics image")
-
 ## Development
 
 > [!NOTE]
