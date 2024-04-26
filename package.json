@@ -1,0 +1,21 @@
+{
+  "name": "shadcn",
+  "displayName": "shadcn",
+  "description": "It is inspired by the shadcn ui framework because it looks cool",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.88.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Shadcn/colorscheme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Shadcncolorscheme-color-theme.json"
+      }
+    ]
+  }
+}
