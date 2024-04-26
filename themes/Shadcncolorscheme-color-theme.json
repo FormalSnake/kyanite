@@ -13,6 +13,7 @@
     "tab.activeBackground": "#27272A",
     "tab.inactiveBackground": "#09090B",
     "tab.border": "#27272A",
+    "editorGroupHeader.tabsBackground": "#09090B",
     "tab.activeBorder": "#27272A",
     "tab.hoverBorder": "#27272A",
     "tab.activeBorderTop": "#27272A",
