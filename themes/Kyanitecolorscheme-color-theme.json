@@ -28,7 +28,9 @@
     "statusBar.border": "#27272A",
     "editorHoverWidget.background": "#09090B",
     "editorHoverWidget.border": "#27272A",
-    "editor.selectionBackground": "#9393952f"
+    "editor.selectionBackground": "#9393952f",
+    "quickInput.background": "#18181B",
+    "quickInputList.focusBackground": "#27272A"
     // "selection.background": "#ff0000"
     // "editor.wordHighlightBackground": "#ff0000"
     // "editor.lineHighlightBackground": "#ff0000"
@@ -67,7 +69,7 @@
       "name": "Keyword, Storage",
       "scope": ["keyword", "storage.type", "storage.modifier"],
       "settings": {
-        "foreground": "#939395"
+        "foreground": "#C490F3"
       }
     },
     {
@@ -75,7 +77,6 @@
       "scope": [
         "keyword.control",
         "constant.other.color",
-        "punctuation",
         "meta.tag",
         "punctuation.definition.tag",
         "punctuation.separator.inheritance.php",
@@ -87,7 +88,7 @@
         "keyword.other.substitution"
       ],
       "settings": {
-        "foreground": "#939395"
+        "foreground": "#C38FF3"
       }
     },
     {
@@ -107,21 +108,21 @@
         "keyword.other.special-method"
       ],
       "settings": {
-        "foreground": "#60a5fa"
+        "foreground": "#92F8E5"
       }
     },
     {
       "name": "Block Level Variables",
       "scope": ["meta.block variable.other"],
       "settings": {
-        "foreground": "#f87171"
+        "foreground": "#92F8E5"
       }
     },
     {
       "name": "Other Variable, String Link",
       "scope": ["support.other.variable", "string.other.link"],
       "settings": {
-        "foreground": "#f87171"
+        "foreground": "#FFF"
       }
     },
     {
@@ -137,11 +138,11 @@
         "keyword.other"
       ],
       "settings": {
-        "foreground": "#f87171"
+        "foreground": "#FFF"
       }
     },
     {
-      "name": "String, Symbols, Inherited Class, Markup Heading",
+      "name": "Symbols, Inherited Class, Markup Heading",
       "scope": [
         "string",
         "constant.other.symbol",
@@ -152,7 +153,21 @@
         "meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js"
       ],
       "settings": {
-        "foreground": "#939395"
+        "foreground": "#FFF"
+      }
+    },
+    {
+      "name": "String, editorBracketHighlight",
+      "scope": ["string", "editorBracketHighlight"],
+      "settings": {
+        "foreground": "#F9D393"
+      }
+    },
+    {
+      "scope": ["punctuation.brackets.curly", "punctuation.brackets.round"],
+      "settings": {
+        "foreground": "#f1bff4",
+        "fontStyle": "bold"
       }
     },
     {
@@ -200,7 +215,7 @@
         "variable.other.class.js"
       ],
       "settings": {
-        "foreground": "#f87171"
+        "foreground": "#FFF"
       }
     },
     {
@@ -208,7 +223,7 @@
       "scope": ["variable.language"],
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#f87171"
+        "foreground": "#FFF"
       }
     },
     {

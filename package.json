@@ -1,7 +1,7 @@
 {
-  "name": "shadcn",
-  "displayName": "ShadCN/vscode",
-  "description": "It is inspired by the shadcn ui framework because it looks cool",
+  "name": "kyanite",
+  "displayName": "Kyanite",
+  "description": "A theme that is both easy on the eyes and pretty",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.88.0"
@@ -15,16 +15,17 @@
     "email": "kyan@canarycoders.es",
     "url": "https://www.formalsnake.dev/"
   },
+  "publisher": "kyandesutter",
   "repository": {
-    "url": "https://github.com/FormalSnake/shadcn-vscode.git",
+    "url": "https://github.com/FormalSnake/kyanite.git",
     "type": "git"
   },
   "contributes": {
     "themes": [
       {
-        "label": "Shadcn/colorscheme",
+        "label": "kyanite",
         "uiTheme": "vs-dark",
-        "path": "./themes/Shadcncolorscheme-color-theme.json"
+        "path": "./themes/Kyanitecolorscheme-color-theme.json"
       }
     ]
   }
