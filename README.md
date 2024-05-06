@@ -1,25 +1,19 @@
 <div align="center">
 
-# ShadCN/vscode theme
+# Kyanite theme
 
 [![License: MIT](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE.md)
 [![Open Issues](https://img.shields.io/github/issues/FormalSnake/shadcn-vscode.svg)](https://github.com/FormalSnake/shadcn-vscode)
 
-This is a vscode theme inspired by the ShadCN design language
+This is a vscode theme inspired by the ShadCN and Astro design language
 
 </div>
 
 <img width="1440" alt="imageShowcase" src="/assets/imageShowcase.png">
 
-> [!CAUTION]
-> I did not create the ShadCN design language and I am not affiliated with ShadCN in any way!
-
 ## Development
 
-> [!NOTE]
-> I do not know how to properly test it
-
-What I do is just run it from the debugger and then it works fine.
+Just open the directory, `npm install` and run from the debugger
 
 ## Usage
 
